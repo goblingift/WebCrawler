@@ -1,0 +1,12 @@
+scheduler:
+    offset: 900000
+
+mailgun:
+    api-key: f27a661fa2asdasijudnsaodnmsajkdnsajdsadasd
+    domain-name: sandbox000000000000000000001.mailgun.org
+    recipient: who-shall-get-your-mail@gmail.com
+
+website:
+    url: https://www.enteryour-url-here.com
+    selector1: span.availability-indicator-success
+    selector2: span.availability-indicator-warning
