@@ -2,8 +2,8 @@ scheduler:
     offset: 900000
 
 mailgun:
-    api-key: f27a661fa2asdasijudnsaodnmsajkdnsajdsadasd
-    domain-name: sandbox000000000000000000001.mailgun.org
+    api-key: HIDDEN
+    domain-name: HIDDEN.mailgun.org
     recipient: who-shall-get-your-mail@gmail.com
 
 website:
